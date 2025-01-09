@@ -27,7 +27,7 @@
                 <input type="text" class="form-control" id="nama" placeholder="Masukkan nama anda" required>
             </div>
             <div class="mb-3">
-                <label for="nohp" class="form-label">No Hp</label>
+                <label for="nohp" class="form-label">No HP</label>
                 <input type="text" class="form-control" id="nohp" placeholder="Masukkan no hp anda" required>
             </div>
             <div class="mb-3">
